@@ -1,0 +1,49 @@
+
+
+.content{
+  padding: 16px;
+}
+
+.title{
+  padding-top: 30px;
+  font-weight: 500;
+  font-size: 26px;
+}
+
+.description{
+  font-weight: 300;
+  font-size: 18px;
+}
+
+.containerImage{
+  max-width: 100%;
+}
+.container-input{
+  padding: 15px;
+}
+.inp{
+  border: none;
+  border-bottom: 2px solid #009687;
+  padding: 15px 0px;
+  width: 100%;
+  font-size: 28px;
+  text-align: center;
+}
+.container-button{
+  padding: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+}
+.btn_success{
+  color: #FFF !important;
+  background: #009687 !important;
+  margin-left: 35px;
+}
+
+
+.btn_cancel{
+  color: #009687 !important;
+  background: #FFF !important;
+  border: none !important; 
+}

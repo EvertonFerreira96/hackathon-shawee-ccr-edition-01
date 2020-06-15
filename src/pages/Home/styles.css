@@ -1,0 +1,43 @@
+.content{
+  background: #009687;
+}
+.informations{
+  background: #FFF;
+}
+
+.container-perfil{
+ margin-top: 15px;
+ text-align: center;
+}
+
+.title-perfil{
+  color: #FFD800;
+}
+
+.name-perfil{
+  color: #FFD800;
+  font-weight: 700;
+  font-size: 25px !important;
+}
+
+.info{
+  color: #000;
+  font-size: 16px;
+  margin-left: 15px;
+}
+
+.container-info{
+  margin-top: 25px;
+  display: table;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+ }
+
+ .ctt{
+   padding: 6px;
+ }
+
+.title-chart{
+  margin: 15px 0px 0px;
+}
